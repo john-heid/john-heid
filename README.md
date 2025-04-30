@@ -1,21 +1,6 @@
 ## Hi, I'm John Heid 👋
- 🔭 I’m currently working on a racing/drifting game in Godot!
+ 🚗 I’m currently working on a racing/drifting game in Godot!
  
-I've been into programming ever since my first project, a Haxball clone in Unity. I largely took a break from game/dev during college, but have been recently getting back into it with the Godot Engine. Physics based movement (Lonely Mountain Downhill) and system management/optimization (Factorio), or both combined (Cosmoteer) are some of my inspirations.
+I've been into programming ever since my first project, a Haxball clone in Unity. I largely took a break from game/dev during college, but have been recently getting back into it with the Godot Engine. Physics based movement (Lonely Mountain Downhill) and system management/optimization (Factorio), or both combined (Cosmoteer) are my biggest inspirations.
 
 While my main hobby is game development, I enjoy programming as a whole! Especially back-end!
-
-<!--
-**bigmanchadley/bigmanchadley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a racing/drifting game in Godot!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
