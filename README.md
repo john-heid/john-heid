@@ -1,14 +1,8 @@
 ## Hi, I'm John Heid 👋
  🚗 I’m currently working on a racing/drifting game in Godot!
  
-I've been into programming ever since my first project, a Haxball clone in Unity. I largely took a break from game/dev during college, but have been recently getting back into it with the Godot Engine.
-
-While my main hobby is game development, I enjoy programming as a whole, especially back-end! 
+I've been into programming ever since my first project, a Haxball clone in Unity. I largely took a break from game development during college, but have been recently getting back into it with the Godot Engine. While my main hobby is game development, I enjoy programming as a whole! I'm currently on the lookout for a back-end or software role, ideally writing Python, C++, or Go. If you're hiring, let me know!
 
 Goals this year:
-
-💼Get some job experience!
-
-⚙️Finish a vertical-slice of my game, Flick!
-
-🔥Participate in Ludum Dare!
+⚙️Finish a vertical-slice of my game, Flick
+🔥Participate in Ludum Dare
