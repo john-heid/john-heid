@@ -1,5 +1,5 @@
 ## Hi, I'm John Heid 
-While game development is my main hobby, I'm currently on the lookout for a software job.
+While game development is my main hobby, I'm currently on the lookout for a web or software job.
 
 ## What I'm up to
 - Learning Python
