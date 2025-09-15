@@ -7,5 +7,6 @@ While game development is my main hobby, I'm currently on the lookout for a back
 - Was recently working on a racing/drifting game in Godot
  
 ## Goals this year
-- Finish a vertical-slice of my game, Flick (✅)
-- Participate in Ludum Dare
+- ~~Finish a vertical-slice of my game, Flick (✅)~~
+- Complete a Cocktail Recipe Web App for my brother
+- Participate in a Game Jam
