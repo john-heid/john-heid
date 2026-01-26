@@ -1,4 +1,4 @@
-## Hi, I'm John Heid 
+## Hi, I'm John
 - C++ | Game Dev
 
  
