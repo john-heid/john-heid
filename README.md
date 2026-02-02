@@ -1,4 +1,5 @@
 ## Hi, I'm John
-- C++ | Game Dev
+- C++
+- Game Dev
 
  
