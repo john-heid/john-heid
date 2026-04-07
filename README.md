@@ -1,4 +1,4 @@
-## Hi, I'm John
+##John
 - C++
 - Game Dev
 
